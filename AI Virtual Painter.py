@@ -47,7 +47,7 @@ while True:
         dist=detector.findDistance(8,12)
         print(dist)
         # If selection Mode--Two fingers are up
-        if dist<170:
+        if dist<80:
                 xp, yp = 0, 0
                 cv2.circle(img2, (x1, y1), 10, drawColor, cv2.FILLED)
                 cv2.circle(img2, (x2, y2), 10, drawColor, cv2.FILLED)
