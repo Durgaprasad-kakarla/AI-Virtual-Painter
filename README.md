@@ -1,1 +1,2 @@
 This project uses hand tracking with OpenCV and MediaPipe to create an interactive virtual painting environment. The project utilises computer vision techniques to detect and track hand gestures, allowing users to control various painting functions such as selecting colours, changing brushes, and drawing on a virtual canvas.
+Demo Link: https://www.linkedin.com/feed/update/urn:li:activity:7157014045319909376/
